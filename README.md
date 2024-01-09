@@ -1,9 +1,9 @@
 # Play_Store_App_Review_Analysis_EDA_Capstone_Project
 
 ## Objective
-We are provided with a hotel bookings dataset. 
+We are provided with Play Store Dataset wherein there is data of the apps on a specific platform. 
 
-Out main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
+Out main objective is perform EDA on the given dataset and draw useful conclusions about general trends in app downloads and how factors governing app downloads interact with each other.
 
 ## Dataset
 We are given a Playstore dataset. This dataset contains downloads information for different apps. It contains the various features.
